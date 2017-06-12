@@ -1076,5 +1076,26 @@ clang++ -O3 -march=native -Wall *.cpp
 <!-- ####################################################################### -->
 
 ---
+
+layout: false
+# Compiler optimisations
+
+.leftside[
+Cool - but useless - compile time computation
+- Make the compiler do numerical computations
+- Limited practical use but can make things easier to understand
+- Perform divisions and multiplications of compile time constants only
+- Marking as ```const``` can help
+- Marking as ```constexpr``` is the best when possible
+
+We can even make a compiler to numerical integration
+
+www.godbolt.org and NumericalIntegration.cpp
+
+]
+
+<!-- ####################################################################### -->
+
+---
 template: inverse
 # end
