@@ -52,4 +52,9 @@ Let's download Eigen3 by
 ```
 wget http://bitbucket.org/eigen/eigen/get/3.3.4.zip
 ```
-Open the folder where it downloaded 
+Unzip and open the folder.  Create a new folder inside the eigen3 directory called ```build```.  Then type
+```
+cmake .. 
+sudo make install
+```
+To install the header only library.
