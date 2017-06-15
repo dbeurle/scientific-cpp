@@ -47,3 +47,9 @@ to get back to the user home directory and pull down the sources from github
 <machine_name>$ git clone --depth=1 https://github.com/dbeurle/scientific-cpp.git
 ```
 Now go to the ```slides/``` folder and open the slides.htm file in your favourite web browser.  The code examples are under ```examples/``` folder.
+
+Let's download Eigen3 by
+```
+wget http://bitbucket.org/eigen/eigen/get/3.3.4.zip
+```
+Open the folder where it downloaded 
