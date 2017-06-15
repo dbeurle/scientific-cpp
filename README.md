@@ -36,7 +36,7 @@ Once you are logged into Fedora on the VM, then open up a terminal from the top 
 ```
 Or in a Ubuntu OS
 ```
-<machine_name>$ sudo apt-get install clang git
+<machine_name>$ sudo apt-get install clang git cmake
 ```
 and provide your user password when prompted to install git, cmake and the clang compiler.  Once we have this working we need to pull down the slides and examples codes.  In the terminal type
 ```
