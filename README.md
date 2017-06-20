@@ -13,7 +13,7 @@ Slides and examples for a scientific c++ workshop using c++11 and c++14 features
 - Compilers and tools
 - Type system crash course
 - Value, reference, pointer and const semantics
-- Functions and classes
+- Functions
 
 ### Hour 2
 - Standard algorithms (stl)
