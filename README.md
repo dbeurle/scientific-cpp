@@ -28,7 +28,7 @@ Slides and examples for a scientific c++ workshop using c++11 and c++14 features
 You will need to install some variant of linux in a virtual machine (VM).  These instructions are written assuming you are using Fedora Workstation Edition.  If you are familiar with other variants please use that and find the equivalent packages on your system.
 
 *Only if you are don't have a Linux system handy*
-Firstly, download the operating system image (.iso) from https://getfedora.org/en/workstation/ and install in OS in the virtual machine.  Make sure you set yourself as the administrator for the virtual OS.
+Firstly, download the live operating system image (.iso) from https://getfedora.org/en/workstation/ (approximately 1.3GiB) and install in OS in the virtual machine.  Make sure you set yourself as the administrator for the virtual OS.
 
 Once you are logged into Fedora on the VM, then open up a terminal from the top left hand side (Activities->Terminal) and type:
 ```
